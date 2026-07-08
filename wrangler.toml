@@ -1,0 +1,6 @@
+name = "market-pulse-india-v1"
+main = "worker.js"
+compatibility_date = "2026-07-08"
+
+[triggers]
+crons = ["*/5 * * * *"]

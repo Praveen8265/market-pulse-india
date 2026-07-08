@@ -1,4 +1,4 @@
-name = "market-pulse-indi"
+name = "market-pulse-india"
 main = "worker.js"
 compatibility_date = "2026-07-08"
 workers_dev = true
